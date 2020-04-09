@@ -1,4 +1,4 @@
-# imzhi博客
+# imzhi notes
 
 ---
 
